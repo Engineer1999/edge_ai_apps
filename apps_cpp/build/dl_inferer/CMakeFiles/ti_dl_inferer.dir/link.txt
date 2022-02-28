@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Release/libti_dl_inferer.a  CMakeFiles/ti_dl_inferer.dir/src/ti_dl_inferer.cpp.o CMakeFiles/ti_dl_inferer.dir/src/ti_dlr_inferer.cpp.o CMakeFiles/ti_dl_inferer.dir/src/ti_onnx_inferer.cpp.o CMakeFiles/ti_dl_inferer.dir/src/ti_tflite_inferer.cpp.o
+/usr/bin/ranlib ../../lib/Release/libti_dl_inferer.a

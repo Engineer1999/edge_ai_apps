@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Release/libedgeai_utils.a  CMakeFiles/edgeai_utils.dir/src/edgeai_perfstats.cpp.o CMakeFiles/edgeai_utils.dir/src/ti_logger.cpp.o
+/usr/bin/ranlib ../../lib/Release/libedgeai_utils.a
